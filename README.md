@@ -114,4 +114,8 @@ These outputs may contain patient identifiers and image-derived patient data. Do
 - For reproducibility, record the script version used to generate any reported results.
 
 ## Sample workflow
+50kV
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/df28a978-47dd-4ecc-9b22-3c94893417f9" />
+70kV with 0.5mm Zn filter
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e6423dbe-4c5a-4185-8177-04433c20488d" />
+
