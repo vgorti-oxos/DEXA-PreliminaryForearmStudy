@@ -112,3 +112,6 @@ These outputs may contain patient identifiers and image-derived patient data. Do
 - Manual annotations, if created later, should be used only as development/evaluation masks, not as a required production step.
 - Keep patient images and result files outside version control.
 - For reproducibility, record the script version used to generate any reported results.
+
+## Sample workflow
+<img width="1035" height="1036" alt="image" src="https://github.com/user-attachments/assets/df28a978-47dd-4ecc-9b22-3c94893417f9" />
