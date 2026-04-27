@@ -114,4 +114,4 @@ These outputs may contain patient identifiers and image-derived patient data. Do
 - For reproducibility, record the script version used to generate any reported results.
 
 ## Sample workflow
-<img width="1035" height="1036" alt="image" src="https://github.com/user-attachments/assets/df28a978-47dd-4ecc-9b22-3c94893417f9" />
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/df28a978-47dd-4ecc-9b22-3c94893417f9" />
