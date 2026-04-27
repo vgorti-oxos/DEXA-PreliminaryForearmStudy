@@ -113,9 +113,18 @@ These outputs may contain patient identifiers and image-derived patient data. Do
 - Keep patient images and result files outside version control.
 - For reproducibility, record the script version used to generate any reported results.
 
-## Sample workflow
+## Sample images during workflow
 50kV
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/df28a978-47dd-4ecc-9b22-3c94893417f9" />
 70kV with 0.5mm Zn filter
 <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e6423dbe-4c5a-4185-8177-04433c20488d" />
-
+Blended before registration
+<img width="250" height="250" alt="registration_before_blend" src="https://github.com/user-attachments/assets/d974c76d-e3ff-4c0f-b134-ced063389adf" />
+Blended after registration
+<img width="250" height="250" alt="registration_after_blend" src="https://github.com/user-attachments/assets/09aee795-4ba8-45e2-8a54-2c3781f4efa6" />
+Forearm mask
+<img width="250" height="250" alt="forearm_mask" src="https://github.com/user-attachments/assets/1469c34d-5c14-42c3-824e-efd4acdbaf70" />
+Bone mask within 3-ROI bounding box
+<img width="250" height="250" alt="roi_bone_mask" src="https://github.com/user-attachments/assets/942d6224-216b-4d30-8e1c-48f448ff55a2" />
+BMD heatmap (0-1)
+<img width="250" height="250" alt="bmd_heatmap" src="https://github.com/user-attachments/assets/b850ad83-f926-41f3-97e5-431a6f60e881" />
