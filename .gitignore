@@ -1,0 +1,23 @@
+# Local Python environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Patient data and generated outputs
+data/
+outputs/
+
+# Local script snapshots
+run_dexa_backup_*.py
+
+# Temporary/debug files
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# External reference material that may have separate sharing restrictions
+reference scripts/
